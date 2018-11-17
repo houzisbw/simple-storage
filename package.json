@@ -1,6 +1,6 @@
 {
-  "name": "simple-storage",
-  "version": "1.0.0",
+  "name": "simple-storage-ls",
+  "version": "1.0.1",
   "description": "A simple localStorage encapsulation",
   "main": "index.js",
   "scripts": {
