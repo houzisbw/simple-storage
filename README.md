@@ -1,5 +1,5 @@
 # simple-storage-ls
-一个简单的localStorage封装，加入容量查询和过期时间
+一个简单的localStorage封装，加入容量查询和过期时间.
 
 # Install
 ```
